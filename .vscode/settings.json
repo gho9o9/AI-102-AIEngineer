@@ -1,0 +1,6 @@
+{
+    "azureFunctions.deploySubpath": "23-custom-search-skill\\Python\\wordcount",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~4"
+}
